@@ -1,4 +1,4 @@
-Hello, I’m Ben Meshanko! I am a Computer Science Student at Purdue University. I am interested in Music, Chess, Data and Science.
+Hello, I’m Benjamin Meshanko! I am a Computer Science Student at Purdue University. I am interested in Music, Chess, Data and Science.
 
 I am originally from Pittsburgh, Pennsylvania (Go Steelers!). I am a huge Java nerd; I love reading through Oracle's documentation about various classes that are pre-implemented.
 

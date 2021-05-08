@@ -11,4 +11,6 @@ I am originally from Pittsburgh, Pennsylvania (Go Steelers!). I am a huge Java n
 
 Reach me by email at bmeshank@purdue.edu.
 
+Check out my Leetcode Profile: https://leetcode.com/bmeshanko/
+
 

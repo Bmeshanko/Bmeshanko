@@ -2,6 +2,8 @@ Hello, I’m Benjamin Meshanko! I am a Sophomore studying Computer Science (SWE,
 
 Several of my interests include:
 - Competitive Programming
+- Software Engineering
+- Systems Programming
 - Disc Golf
 - Music/Guitar
 - Soccer

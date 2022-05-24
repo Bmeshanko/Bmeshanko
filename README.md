@@ -1,4 +1,4 @@
-# Hello, I’m Benjamin Meshanko! I am a Junior studying Computer Science (SWE, Systems Programming) at Purdue University.
+# Hello, I’m Benjamin Meshanko! I am a Junior studying Computer Science (SWE, Systems) at Purdue University.
 
 Several of my interests include:
 - Competitive Programming

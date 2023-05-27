@@ -8,8 +8,6 @@ Several of my interests include:
 - Music/Guitar
 - Soccer
 
-I am currently looking for an internship for Summer 2022.
-
 Email: benmeshanko@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/benmeshanko/

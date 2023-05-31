@@ -2,11 +2,9 @@
 
 I am a Senior studying Computer Science (SWE, Systems) at Purdue University.
 
-LinkedIn: https://www.linkedin.com/in/benmeshanko/
-
-Email: btm@purdue.edu
-
-Website: https://bmeshanko.github.io/Website/
+LinkedIn: https://www.linkedin.com/in/benmeshanko/ <br>
+Email: btm@purdue.edu <br>
+Website: https://bmeshanko.github.io/Website/ <br>
 
 I am interested in: 
 - Compilers & Programming Languages

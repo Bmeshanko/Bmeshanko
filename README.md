@@ -11,6 +11,3 @@ I am interested in:
 - Full-Stack Software Engineering
 - Competitive Programming
 - Cloud-Native Infrastructure & Software
-
-# Major Projects
-

@@ -11,3 +11,5 @@ I am interested in:
 - Full-Stack Software Engineering
 - Competitive Programming
 - Cloud-Native Infrastructure & Software
+
+I currently serve as the Finance Department Head at https://www.spreadtheloveprojects.org/.

@@ -11,5 +11,6 @@ I am interested in:
 - Full-Stack Software Engineering
 - Competitive Programming
 - Cloud-Native Infrastructure & Software
+- B2B and Organizational Data Analytics
 
-I currently serve as the Finance Department Head at https://www.spreadtheloveprojects.org/.
+I currently serve as the Finance Department Head at https://www.spreadtheloveprojects.org/. I am responsible for integrating Data Analytics, Budgeting, and Logistics for the organization. I have used my background in computing and mathematics in order to develop tools to better visualize and analyze financial data and turn that data into strategy for the organization.
